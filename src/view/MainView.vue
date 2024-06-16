@@ -1,6 +1,8 @@
 <template>
     <div>
+        
         <!-- Your content goes here -->
+         1321321
         <BookCatogory />
         <div class="book-cotainer">
             <BookShowCard v-for="(book,key) in books" :book="book" :key="key"  />
