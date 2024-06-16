@@ -1,6 +1,7 @@
 <template>
     <div>
         123123
+        test
         <!-- Your content goes here -->
         <BookCatogory />
         <div class="book-cotainer">
